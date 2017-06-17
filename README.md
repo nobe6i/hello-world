@@ -1,2 +1,2 @@
 # hello-world
-Nora Cook's folder
+A collection of studies.
